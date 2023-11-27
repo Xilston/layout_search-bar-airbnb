@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["src/fonts.css"],"sourcesContent":["@font-face {\n  font-family: Avenir;\n  src: url(fonts/Avenir.ttc);\n  font-weight: 300;\n}\n\n@font-face {\n  font-family: Avenir;\n  src: url(fonts/Avenir-Heavy.ttf);\n  font-weight: bold;\n}\n"],"names":[],"version":3,"file":"index.95069a27.css.map","sourceRoot":"/__parcel_source_root/"}
